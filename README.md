@@ -26,5 +26,5 @@
 
 ## Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMarianaSouza&repo=projeto-js-learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DevMarianaSouza/projeto-js-learning))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMarianaSouza&repo=projeto-js-learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DevMarianaSouza/projeto-js-learning)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMarianaSouza&repo=Portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DevMarianaSouza/Portfolio)
