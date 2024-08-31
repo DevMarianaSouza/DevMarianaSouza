@@ -1,7 +1,11 @@
-# Hi, I'm Mariana Souza!
+<div align="center">
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&lines=Hello+World,+I'm+Mariana+Souza;I'm+a+Front-End+Developer.)](https://git.io/typing-svg)
+</div>
+
 
 ## About me
-### Hi people devs or not👋
 
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font> I'm currently studying SYSTEM ANALYSIS AND DEVELOPMENT college <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖥</font></font>
 - 🔭 I’m currently studying on HTML, CSS, JavaScript, Node.js and Java <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font> ☕
@@ -10,22 +14,7 @@
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💍</font></font> Happily Married <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💜</font></font>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I eat a one pizza alone <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍕</font></font> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤭</font></font>
-
-
-
-##
-
-# Oi, eu sou a Mariana Souza!
-## Sobre mim
-### Oi pessoal devs ou não👋
-
-- <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font> Estudo atualmente a graduação Análise e Desenvolvimento de Sistemas <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖥</font></font>
-- 🔭 Estudo atualmente HTML, CSS, JavaScript, Node.js e Java <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font> ☕
-- 🌱 Aprendo atualmente sobre React e MongoDB
-- 🤔 Procuro ajuda nessa transição de carreira <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font>
-- <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💍</font></font> Casada e Feliz <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💜</font></font>
-- 😄 Pronome: Ela/Dela
-- ⚡ Fato engraçado: Eu como uma pizza sozinha <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍕</font></font> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤭</font></font>
+* 💻 I'm looking for my first job opportunity. My dream is to one day work as a Front-End Developer.
 
 
 
@@ -37,5 +26,5 @@
 
 ## Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMarianaSouza&repo=Exercicios&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/Exercicios)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMarianaSouza&repo=meu-primeiro-projeto-back-end&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/SEUUSERNAME/Exercicios](https://github.com/DevMarianaSouza/meu-primeiro-projeto-back-end))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMarianaSouza&repo=projeto-js-learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DevMarianaSouza/projeto-js-learning))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DevMarianaSouza&repo=Portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DevMarianaSouza/Portfolio)
