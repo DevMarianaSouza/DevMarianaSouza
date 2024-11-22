@@ -7,15 +7,15 @@
 
 ## About me
 
+- 💻 I'm working as a web developer, with a contract equivalent to an internship 
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font> I'm currently studying SYSTEM ANALYSIS AND DEVELOPMENT college <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖥</font></font>
-- 🔭 I’m currently studying on HTML, CSS, JavaScript, React and Ruby <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font>  :gem::hearts:
+- 🔭 I’m currently studying on HTML, CSS, JavaScript <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font>  :gem::hearts:
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with career transition <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font>:octocat:
-- <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💍</font></font> Happily Married <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💜</font></font>
 - 😄 Pronouns: She/Her
 - :muscle: I like to do weight training and swimming :swimmer:
 - ⚡ Fun fact: I eat a one pizza alone <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍕</font></font> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤭</font></font>
-* 💻 I'm looking for my first job opportunity. My dream is to one day work as a Software Developer.
+
 
 
 
