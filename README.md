@@ -10,7 +10,7 @@
 - 💻 I'm working as a web developer, with a contract equivalent to an internship 
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font> I'm currently studying SYSTEM ANALYSIS AND DEVELOPMENT college <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖥</font></font>
 - 🔭 I’m currently studying on HTML, CSS, JavaScript <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font>  :gem::hearts:
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Unity/C# 
 - 🤔 I’m looking for help with career transition <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font>:octocat:
 - 😄 Pronouns: She/Her
 - :muscle: I like to do weight training and swimming :swimmer:
