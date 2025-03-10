@@ -1,16 +1,16 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&lines=Hello+World,+I'm+Mariana+Souza;I'm+a+Front-End+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&lines=Hello+World,+I'm+Mariana+Souza;I'm+a+Software+Developer.)](https://git.io/typing-svg)
 </div>
 
 
 ## About me
 
-- 💻 I'm working as a web developer, with a contract equivalent to an internship 
+- 💻 I'm working as a data engeneering intern at Compass UOL Company :yellow_heart:
 - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font> I'm currently studying SYSTEM ANALYSIS AND DEVELOPMENT college <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖥</font></font>
-- 🔭 I’m currently studying on HTML, CSS, JavaScript <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font>  :gem::hearts:
-- 🌱 I’m currently learning React and Unity/C# 
+- 🔭 Skills: JavaScript, React, CSS, HTML, Python and some knowledge in Java, C# and Node.js 
+- 🌱 I’m currently learning data engeneering :game_die:
 - 🤔 I’m looking for help with career transition <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font>:octocat:
 - 😄 Pronouns: She/Her
 - :muscle: I like to do weight training and swimming :swimmer:
